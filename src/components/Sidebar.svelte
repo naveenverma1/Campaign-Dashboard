@@ -80,7 +80,7 @@
               }}
               class={segment === 'layouts' && activeLink === 'Static Navigation' ? 'active' : ''}
               href="layouts/static_navigation"
-              text="Static Navigation" />
+              text="Affele" />
             <SidebarItem
               on:press={() => {
                 theme = 'light';
@@ -88,7 +88,7 @@
               }}
               class={segment === 'layouts' && activeLink === 'Light Sidenav' ? 'active' : ''}
               href="layouts/light_sidenav"
-              text="Light Sidenav" />
+              text="Campaign2" />
           </Nav>
         </Collapse>
         <SidebarItem

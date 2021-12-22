@@ -4,8 +4,8 @@
   const tableHeading = ["#", "campaignName", "sent", "impression"];
   const tableData = [
     { SNo: "1",campaignName: "affle", sent: "1333", impression: "99" },
-    { SNo: "2", campaignName: "Jacob", sent: "3333", impression: "111" },
-    { SNo: "3", campaignName: "Larry", sent: "232", impression: "2322" }
+    { SNo: "2", campaignName: "globale", sent: "3333", impression: "111" },
+    { SNo: "3", campaignName: "appnext", sent: "232", impression: "2322" }
   ];
 </script>
 

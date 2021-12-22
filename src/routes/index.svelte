@@ -24,7 +24,6 @@ let title = "Campaign Dashboard";
 </svelte:head>
 <Layout>
 
-<h1 class="mt-4">Dashboard</h1>
 
 <Breadcrumb class="mb-4">
     <BreadcrumbItem active>Dashboard</BreadcrumbItem>

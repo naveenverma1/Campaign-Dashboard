@@ -22,7 +22,7 @@ let title = "Campaign Dashboard";
 <svelte:head>
   <title>{title}</title>
 </svelte:head>
-<Layout>
+<!-- <Layout> -->
 
 
 <Breadcrumb class="mb-4">
@@ -65,4 +65,4 @@ let title = "Campaign Dashboard";
     <Table />
   </CustomCard>
 
-</Layout>
+<!-- </Layout> -->
